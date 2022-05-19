@@ -10,6 +10,11 @@ It's easy to use:
 docker pull soulteary/docker-pytorch-playground
 ```
 
+## Docker Images
+
+- soulteary/docker-pytorch-playground:latest
+- soulteary/docker-pytorch-playground:2022.05.19
+
 ## Build
 
 ```bash
